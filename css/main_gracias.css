@@ -87,12 +87,13 @@ li {
     list-style-type: none;
 }   
 .footer{
-    padding: 40px;
+    padding: 10px 40px;
 }
 
 #check{
     font-size: 8rem;
     color: #2A5784;
+    padding: 15px;
 }
 .contacto{
     background-color: #2A5784;
@@ -125,9 +126,9 @@ li {
     background-color: #f8a800;
     padding: 12px;
     border-radius: 30px;
-    color: white;
+    color: #333333;
     
 }
 a:hover{
-    color: #333333;
+    color: #FFFFFF;
 }
