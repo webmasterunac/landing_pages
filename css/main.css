@@ -729,3 +729,45 @@ textarea.input100 {
 .footer{
     padding: 40px;
 }
+.gracias{
+    padding: 80px 20px;
+}
+.gracias i{
+    font-size: 8rem;
+    color: #2A5784;
+}
+.contacto{
+    background-color: #2A5784;
+    padding: 12% 50px;
+    color: white;
+}
+.contacto i{
+    font-size: 24px;
+}
+.contacto a{
+    color: white;
+    font-weight: 500;
+}
+.formas_contacto{
+    padding-top: 20px;
+}
+.redes{
+    padding-top: 20px;
+    color: #2A5784;
+}
+.redes i{
+    padding: 0px 10px;
+    font-size: 20px;
+}
+.redes a{
+    color: #2A5784;
+}
+.cta_boton{
+    background-color: #f8a800;
+    padding: 12px;
+    border-radius: 30px;
+    color: white;
+}
+a:hover{
+    color: #333333;
+}
