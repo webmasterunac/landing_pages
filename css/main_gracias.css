@@ -1,0 +1,133 @@
+/*//////////////////////////////////////////////////////////////////
+[ FONT ]*/
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url('../fonts/poppins/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url('../fonts/poppins/Poppins-Medium.ttf');
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url('../fonts/poppins/Poppins-Bold.ttf');
+}
+
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url('../fonts/poppins/Poppins-SemiBold.ttf');
+}
+.gracias {
+    padding: 80px 20px;
+}
+.gracias i{
+    display: flex;
+    justify-content: center;
+}
+@media (max-width: 576px) {
+    .gracias{
+        padding: 20px 50px;
+    }
+}
+body,
+html {
+    height: 100%;
+    font-family: Poppins-Regular, sans-serif;
+}
+
+
+/*---------------------------------------------*/
+
+a {
+    font-family: Poppins-Regular;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #666666;
+    margin: 0px;
+    transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+}
+
+a:focus {
+    outline: none !important;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/*---------------------------------------------*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0px;
+}
+
+p {
+    font-family: Poppins-Regular;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #666666;
+    margin: 0px;
+}
+
+ul,
+li {
+    margin: 0px;
+    list-style-type: none;
+}   
+.footer{
+    padding: 40px;
+}
+
+#check{
+    font-size: 8rem;
+    color: #2A5784;
+}
+.contacto{
+    background-color: #2A5784;
+    padding: 12% 50px;
+    color: white;
+}
+.contacto i{
+    font-size: 24px;
+    color: white;
+}
+.contacto a{
+    color: white;
+    font-weight: 500;
+}
+.formas_contacto{
+    padding-top: 20px;
+}
+.redes{
+    padding-top: 20px;
+    color: #2A5784;
+}
+.redes i{
+    padding: 0px 10px;
+    font-size: 20px;
+}
+.redes a{
+    color: #2A5784;
+}
+.cta_boton{
+    background-color: #f8a800;
+    padding: 12px;
+    border-radius: 30px;
+    color: white;
+    
+}
+a:hover{
+    color: #333333;
+}
