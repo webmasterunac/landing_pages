@@ -197,7 +197,7 @@ iframe {
 [ Contact ]*/
 
 .info_pregrado{
-    background-image: url(/images/admin.jpg);
+    background-image: url(https://www.unac.edu.co/administracion-empresas/images/admin.jpg);
     background-size: cover;
     padding: 42px 55px 45px 55px;
     border-radius: 10px;
@@ -698,7 +698,7 @@ textarea.input100 {
     padding-bottom: 2vw;
 }
 #descripcion {
-    background-image: url(/images/medios_contacto.jpg);
+    background-image: url(https://www.unac.edu.co/administracion-empresas/images/medios_contacto.jpg);
     background-position: 10% 35%;
 }
 #descripcion a{
